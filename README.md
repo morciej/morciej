@@ -1,5 +1,5 @@
 ### Hi there 👋
-- I’m currently working on a new personal website
+- I’m maintaining a personal website
 - I’m currently learning how to use HUGO
 - I am learning Python
 
